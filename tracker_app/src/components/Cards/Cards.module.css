@@ -17,3 +17,9 @@
 .deaths {
     border-bottom: 10px solid rgba(255, 0, 0, 0.5);
 }
+
+@media (min-width: 770px) {
+    .container {
+        margin-left: 100px
+    }
+}
